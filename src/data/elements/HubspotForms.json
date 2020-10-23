@@ -1,0 +1,9 @@
+{
+  "title": "HubSpot Forms",
+  "description": "Hubspot Forms custom element let's you include your forms from Hubspot into your content.",
+  "thumbnailUrl": "../assets/HubspotForms.gif",
+  "readmeUrl": "https://github.com/yuriys-kentico/KenticoKontentHubspotForms",
+  "categories": [
+    "Forms"
+  ]
+}
